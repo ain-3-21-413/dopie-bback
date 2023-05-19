@@ -1,0 +1,618 @@
+[
+  {
+    "fixture": {
+      "id": "416005",
+      "home": "Southampton",
+      "away": "Liverpool",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416006",
+      "home": "Man United",
+      "away": "Fulham",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416007",
+      "home": "Leicester City",
+      "away": "West Ham",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416008",
+      "home": "Leeds United",
+      "away": "Tottenham",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416009",
+      "home": "Everton",
+      "away": "Bournemouth",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416010",
+      "home": "Crystal Palace",
+      "away": "Nottingham",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416011",
+      "home": "Chelsea",
+      "away": "Newcastle",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416012",
+      "home": "Brentford",
+      "away": "Man City",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416013",
+      "home": "Aston Villa",
+      "away": "Brighton Hove",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416014",
+      "home": "Arsenal",
+      "away": "Wolverhampton",
+      "time": "15:30",
+      "date": "28 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416015",
+      "home": "Wolverhampton",
+      "away": "Everton",
+      "time": "14:00",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416016",
+      "home": "West Ham",
+      "away": "Leeds United",
+      "time": "12:30",
+      "date": "21 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416017",
+      "home": "Tottenham",
+      "away": "Brentford",
+      "time": "11:30",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416018",
+      "home": "Nottingham",
+      "away": "Arsenal",
+      "time": "16:30",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416019",
+      "home": "Newcastle",
+      "away": "Leicester City",
+      "time": "19:00",
+      "date": "22 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416020",
+      "home": "Man City",
+      "away": "Chelsea",
+      "time": "15:00",
+      "date": "21 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416021",
+      "home": "Liverpool",
+      "away": "Aston Villa",
+      "time": "14:00",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416022",
+      "home": "Fulham",
+      "away": "Crystal Palace",
+      "time": "14:00",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416023",
+      "home": "Brighton Hove",
+      "away": "Southampton",
+      "time": "13:00",
+      "date": "21 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416024",
+      "home": "Bournemouth",
+      "away": "Man United",
+      "time": "14:00",
+      "date": "20 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416066",
+      "home": "Man United",
+      "away": "Chelsea",
+      "time": "19:00",
+      "date": "25 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  },
+  {
+    "fixture": {
+      "id": "416071",
+      "home": "Brighton Hove",
+      "away": "Man City",
+      "time": "19:00",
+      "date": "24 May",
+      "country": "England",
+      "league": "Premier League"
+    },
+    "outcomes": [
+      {
+        "name": "Home",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Draw",
+        "coefficient": 1.5,
+        "count": 5
+      },
+      {
+        "name": "Away",
+        "coefficient": 1.5,
+        "count": 5
+      }
+    ]
+  }
+]
